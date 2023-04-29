@@ -1,0 +1,26 @@
+[
+    {
+        "name": "munia",
+        "uname": "munia123",
+        "gender": "Female",
+        "email": "munia123@gmail.com",
+        "password": "123456789",
+        "confirmpassword": "123456789"
+    },
+    {
+        "name": "nir",
+        "uname": "nir123",
+        "gender": "Female",
+        "email": "nir123@gmail.com",
+        "password": "123456789",
+        "confirmpassword": "123456789"
+    },
+    {
+        "name": "nirjona",
+        "uname": "nirjona",
+        "gender": "Female",
+        "email": "nirjona@gmail.com",
+        "password": "nirj1234",
+        "confirmpassword": "nirj1234"
+    }
+]
